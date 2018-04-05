@@ -1,0 +1,14 @@
+
+mybatis 简单例子（快速入门）
+
+https://www.cnblogs.com/liangxiaofeng/p/6371866.html
+
+
+create table t_user(
+
+id varchar(60) primary key,
+username varchar(20),
+password varchar(20),
+account  varchar(20)
+
+);
